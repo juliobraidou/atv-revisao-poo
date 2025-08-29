@@ -1,8 +1,7 @@
 Como executar:
 
 1 - Clonar o rep: 
-(git clone https://github.com/juliobraidou/atv-revisao-poo.git
-cd atv-revisao-poo)
+(git clone https://github.com/juliobraidou/atv-revisao-poo.git)
 
 2 - Instalar as dependecia do projeto:
 npm install
