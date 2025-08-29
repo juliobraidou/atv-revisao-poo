@@ -1,0 +1,1 @@
+{"version":3,"file":"liveStream.d.ts","sourceRoot":"","sources":["../src/liveStream.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,YAAY,CAAC;AAEnC,qBAAa,UAAW,SAAQ,KAAK;IACnC,OAAO,CAAC,OAAO,CAAS;gBAGtB,KAAK,EAAE,MAAM,EACb,SAAS,EAAE,MAAM,EACjB,OAAO,EAAE,MAAM;IAOV,IAAI,IAAI,IAAI;IAIZ,IAAI,IAAI,IAAI;CAGpB"}
